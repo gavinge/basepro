@@ -14,6 +14,7 @@
 bin：读者可以下载直接简历工程模板.
 
 wtlGenerator 工程:生成exe工程生成代码 VS2013
+
 dllGenerator 工程:生成dll工程生成代码 VS2013
 
 dll_baseproj工程: 标准普通dll工程母本 （支持VS2008）
