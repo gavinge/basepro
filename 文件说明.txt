@@ -1,0 +1,9 @@
+Generator.sln
+
+wtlGenerator 工程:生成exe工程生成代码 VS2013
+dllGenerator 工程:生成dll工程生成代码 VS2013
+
+
+dll_baseproj工程: 标准普通dll工程母本 （基于VS2008）
+dll_wtlbaseproj工程: 标准WTL dll工程母本 （基于VS2008）
+exe_wtlbaseproj工程: 标准exe工程母本  (基于VS2008)

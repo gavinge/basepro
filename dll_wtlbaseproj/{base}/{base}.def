@@ -1,0 +1,4 @@
+LIBRARY	"{base}"
+EXPORTS
+	CreateInstance	@1		PRIVATE
+	 

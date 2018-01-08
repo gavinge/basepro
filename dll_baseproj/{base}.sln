@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{projectguid3}") = "{base}", "{base}\{base}.vcproj", "{projectguid}"
+EndProject
+Project("{projectguid3}") = "{base}Sample", "{base}Sample\{base}Sample.vcproj", "{projectguid2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{projectguid}.Debug|Win32.ActiveCfg = Debug|Win32
+		{projectguid}.Debug|Win32.Build.0 = Debug|Win32
+		{projectguid}.Release|Win32.ActiveCfg = Release|Win32
+		{projectguid}.Release|Win32.Build.0 = Release|Win32
+		{projectguid2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{projectguid2}.Debug|Win32.Build.0 = Debug|Win32
+		{projectguid2}.Release|Win32.ActiveCfg = Release|Win32
+		{projectguid2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

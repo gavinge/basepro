@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wtlGenerator", "wtlGenerator\wtlGenerator.vcxproj", "{75C3912A-88E3-4E7D-8EB4-50A1CA1D6E8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllGenerator", "dllGenerator\dllGenerator.vcxproj", "{34A52E6D-F334-45BB-9E98-24ECA47186C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C3912A-88E3-4E7D-8EB4-50A1CA1D6E8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{75C3912A-88E3-4E7D-8EB4-50A1CA1D6E8D}.Debug|Win32.Build.0 = Debug|Win32
+		{75C3912A-88E3-4E7D-8EB4-50A1CA1D6E8D}.Release|Win32.ActiveCfg = Release|Win32
+		{75C3912A-88E3-4E7D-8EB4-50A1CA1D6E8D}.Release|Win32.Build.0 = Release|Win32
+		{34A52E6D-F334-45BB-9E98-24ECA47186C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34A52E6D-F334-45BB-9E98-24ECA47186C4}.Debug|Win32.Build.0 = Debug|Win32
+		{34A52E6D-F334-45BB-9E98-24ECA47186C4}.Release|Win32.ActiveCfg = Release|Win32
+		{34A52E6D-F334-45BB-9E98-24ECA47186C4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
