@@ -5,7 +5,7 @@
 
 #include <Shlwapi.h>
 #pragma comment(lib,"shlwapi.lib")
-#include "..\ExportInterface\C{base}Helper.h"
+#include "..\{base}Interface\C{base}Helper.h"
 
 // C{base}SampleDlg ¶Ô»°¿ò
 class C{base}SampleDlg : public CDialog
